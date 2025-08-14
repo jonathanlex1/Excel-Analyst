@@ -5,11 +5,17 @@ This Excel dataset is a collection of data related to the top 50 best-selling bo
 **The dataset includes the following variables:**
 
 •	Name - The title of the book.
+
 •	Author - The name of the book's author.
+
 •	User Rating - The average rating of the book as provided by Amazon users.
+
 •	Reviews - The total number of reviews the book has received on Amazon.
+
 •	Price - The price of the book in US dollars.
+
 •	Year - The year the book was published.
+
 •	Genre - The genre of the book.
 
 The Amazon Top 50 Bestselling Books can be used to explore trends in book sales on Amazon over a decade and is useful to data analytics beginners.
